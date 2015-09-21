@@ -1,0 +1,10 @@
+﻿  Writing file 'C:\Users\dkvandyke\Source\Repos\16_Xerxes-C\xerces-c-3.1.2\personal.h'.
+  Writing file 'C:\Users\dkvandyke\Source\Repos\16_Xerxes-C\xerces-c-3.1.2\combined.h'.
+  Writing file 'C:\Users\dkvandyke\Source\Repos\16_Xerxes-C\xerces-c-3.1.2\SecondSchema.h'.
+  Writing file 'C:\Users\dkvandyke\Source\Repos\16_Xerxes-C\xerces-c-3.1.2\TypeInfo.h'.
+XSD : error : There was an error processing 'tests\src\dom\typeinfo\data\TypeInfo.xsd'.
+  
+  If you would like more help, please type "xsd /?".
+    - Error generating code for DataSet ''.
+    - Unable to convert input xml file content to a DataSet. Undefined data type: 'anySimpleType'.
+    - Undefined data type: 'anySimpleType'.
